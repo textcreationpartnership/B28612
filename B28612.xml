@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quæries: or a dish of pickled-herring shread, cut and prepared according to the Dutch fashion. For the squeamish consciences of English phanaticks, who pray for the new-building of their old Babell.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28612</idno><idno type="EEBO-CITATION">99884898</idno>
+  <idno type="VID">190540</idno>
+  <idno type="EEBO-PROQUEST">2240898168</idno>
+  
+            <idno type="STC">Wing Q171</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.1800[7]</idno>
+            <idno type="STC">ESTC R219653</idno>
+            <idno type="PROQUEST">ocm99884898</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884898e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28612)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190540)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C22:1[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Quæries: or a dish of pickled-herring shread, cut and prepared according to the Dutch fashion. For the squeamish consciences of English phanaticks, who pray for the new-building of their old Babell.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Amsterdam for the use of the high and mighty states of Holland, and re-printed at London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+               <term type="geographic_name">Netherlands --  Foreign relations --  1648-1714 --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:190540:1"/>
+            <p>QUAERIES: Or a Dish of Pickled-Herring Shread, Cut and prepared according to the <hi>DƲTCH</hi> Fashion.</p>
+            <p>For the squeamish Consciences of <hi>English</hi> Phanaticks, who pray for the New building of their Old BABELL.</p>
+            <figure>
+               <figDesc>English coat of arms, circa 1665</figDesc>
+            </figure>
+            <p>Printed at <hi>Amsterdam</hi> for the use of the High and Mighty States of <hi>Holland,</hi> and re-printed at <hi>LONDON,</hi> 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:190540:2"/>
+            <pb n="1" facs="tcp:190540:2"/>
+            <head>QUAERIES. Or a Dish of Pickled-Herring, &amp;c.</head>
+            <p n="1">I. VVHither the <hi>Hollanders</hi> Government by <hi>States</hi> is not better than <hi>Monarchy</hi> by some Millions, by their usurpation over <hi>Royal Privileges and Properties?</hi>
+            </p>
+            <p n="2">II. Whether <hi>Lucian</hi> did well to make <hi>Hell</hi> govern'd by <hi>States?</hi>
+            </p>
+            <p n="3">III. Whether the <hi>States of Holland</hi> (who <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eny <hi>Kingship</hi> to be <hi>Jure Divi<g ref="char:EOLhyphen"/>no</hi>) may not lawfully affirm there are <hi>no Devils;</hi> since Scripture commands them <hi>to deny themselves?</hi>
+            </p>
+            <p n="4">IV. Whether their <hi>Land</hi> may not be compared to the <hi>Ingredients</hi> of a <hi>Black-pudding;</hi> since their <hi>patches</hi> of ground in the water, seem like the <hi>knobs</hi> of <hi>Fat,</hi> or <hi>Oatmeal</hi> not well <hi>stirr'd</hi> together in the <hi>Blood?</hi>
+            </p>
+            <p n="5">V. Whether we may not judge them cruel and merciless to all who have dealing with them, since they are so to themselves; for rather than want <hi>Fu<g ref="char:EOLhyphen"/>el,</hi> they will fire the very <hi>foundation</hi> of their being, the <hi>Earth?</hi>
+            </p>
+            <p n="6">VI. Whether we may not call <hi>Holland</hi> a <hi>Green-Cheese in pickle,</hi> by reason of its watry situation: And whether lately thousands of its Inhabitants were not souc'd by the <hi>English,</hi> to make them bear some analogy to their Country?</p>
+            <p n="7">VII. Whether they have not a shorter cut to <hi>Hell</hi> than the people of o<g ref="char:EOLhyphen"/>ther Kingdoms and Nations; since their <hi>Country</hi> is so <hi>low?</hi>
+            </p>
+            <p n="8">
+               <pb n="2" facs="tcp:190540:3"/>VIII. Whether it may not be called <hi>Hell,</hi> since all <hi>Erronious Tenents,</hi> with the Authors of strange and unheard of <hi>Villanies</hi> flock thither, as to their proper <hi>Centre?</hi>
+            </p>
+            <p n="9">IX. Whether <hi>England</hi> be not <hi>Sampson;</hi> since it hath torn the <hi>Dutch-Ly<g ref="char:EOLhyphen"/>on</hi>'s <hi>Jaws</hi> asunder?</p>
+            <p n="10">X. Whether any now know what their <hi>Hoghen Moghenships</hi> are <hi>doing;</hi> or whether they know now what to <hi>doe.</hi>
+            </p>
+            <p n="11">XI. Whether if a Malefactor were condemn'd to be hang'd, a man could find any other <hi>Tree</hi> for that purpose than a <hi>Willow,</hi> which makes them pilfare Timber elsewhere for Shipping?</p>
+            <p n="12">XII. Whether a <hi>Dutchman</hi> can break his <hi>Neck</hi> by <hi>leaping</hi> out of his own <hi>Window,</hi> since he is not like to meet with <hi>ground,</hi> till he sink to the <hi>bottome</hi> of a <hi>River,</hi> or the <hi>Sea;</hi> for their Houses stand like <hi>Privyes,</hi> in Moat<g ref="char:EOLhyphen"/>houses over the water?</p>
+            <p n="13">XIII. Whether Dr. <hi>Lamb</hi> living there might have feared that <hi>Death</hi> by <hi>Stoning</hi> (which he receiv'd at <hi>London</hi>) there being so sew stones, that the <hi>living ones</hi> are as plentifull, except what are imployed to the Paving of Streets: wherefore it is called the <hi>Buttock</hi> of the <hi>World,</hi> since it is full of <hi>Veins</hi> and <hi>Blood▪</hi> VVater) but no <hi>Bones</hi> hardly in it (Stones)?</p>
+            <p n="14">XIV. VVhether <hi>Holland</hi> be not a meer <hi>Paradox;</hi> since its Inhabitants <hi>fish</hi> in the <hi>Water</hi> for <hi>Fire,</hi> and having taken thereof, spread it on the Land; which then appears to the beholders imagination, a <hi>Green-Cheese</hi> over<g ref="char:EOLhyphen"/>spread with <hi>black-soap.</hi> Their <hi>Horses</hi> are <hi>Wood,</hi> which carry the <hi>Bridle</hi> in their <hi>Posteriours,</hi> and their <hi>Bellies</hi> contain their <hi>Burdens,</hi> and the <hi>Wind</hi> is the <hi>Spur</hi> that <hi>pricks</hi> them on?</p>
+            <p n="15">XV. VVhether if <hi>Mount Atna</hi> or <hi>Vesuvius</hi> be <hi>Hells fore-gate, Holland</hi> is not the <hi>Postern.</hi>
+            </p>
+            <p n="16">XVI. VVhether that Text <hi>(They are all become abominable, there is none that doth-good, no not one)</hi> doth concern the <hi>Hollander?</hi>
+            </p>
+            <p n="17">XVII. VVhether to shake off <hi>Allegiance</hi> (as they did from their <hi>lawfull Soveraign</hi> the King of <hi>Spain</hi>) for <hi>Christian-liberty,</hi> was not <hi>Don Quixots</hi> Argument to turn loose the <hi>Gally-Slaves,</hi> because <hi>God and Nature had made them free?</hi>
+            </p>
+            <p n="18">XVIII. VVhether the <hi>United Provinces</hi> (dis-united by water) may not be ranked with <hi>Magallaus Insula Latronum,</hi> or Island of Thieves, who stole his Cock-boat.</p>
+            <p n="19">XIX. VVhether the water they use be not very <hi>Cordial,</hi> since it is <hi>A<g ref="char:EOLhyphen"/>qua Coelestis, distill'd</hi> from the <hi>Clouds:</hi> However <hi>I</hi> am sure it is <hi>Aqua for<g ref="char:EOLhyphen"/>tis,</hi> or <hi>forti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a,</hi> Strong-water <hi>I</hi> mean; for using it with one hand, you must hold your Nose with the other?</p>
+            <p n="20">
+               <pb n="3" facs="tcp:190540:3"/>XX. VVhether they believe the World will be <hi>burned</hi> (as some of them were lately at Sea) since they make it appear by dayly experiment, that its <hi>matter</hi> is <hi>combustible.</hi>
+            </p>
+            <p n="21">XXI. VVhether the <hi>Dutch Sea Captains</hi> have not lately found out the <hi>art</hi> of <hi>flying,</hi> without other <hi>wings,</hi> (then what their fears p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocured them, their Sails) and that it is fit they which come after should understand this old in<g ref="char:EOLhyphen"/>vention, revived to prevent what danger might ensue for want of knowledge thereof?</p>
+            <p n="22">XXII. VVhether it be not requisite the States should canonize those for Saints that dye in their Service, who since there are but two VVorlds, ought at least to be honoured in one?</p>
+            <p n="23">XXIII. VVhether the <hi>Wisemen of Gotham</hi> would not have been horribly puzzled to have found out in <hi>Holland</hi> an Hedge for their Cuckow?</p>
+            <p n="24">XXIV. VVhether Escutcheons are not in <hi>Holland</hi> more plentifull then the Gentry, since there every man is his own Herald; never fearing to have a Coat, if he hath so much wit to contrive one?</p>
+            <p n="25">XXV. VVhether they regard not their Houses, and Utensils therein con<g ref="char:EOLhyphen"/>tained, more then themselves; for though they neglect their own formlesse unlickt Cub-Ships, yet to be sure the other shall not want any thing of their native beauty: Hence may be said they keep their Houses cleaner then their Bodies, and their Bodies then their souls?</p>
+            <p n="26">XXVI. VVhether at any time they are so nice-conscienc'd, as not to turn Religion out of doors to let in Policy? and whether the most borish among them, if he gets wealth, may not quickly be made a Statesman?</p>
+            <p n="27">XXVII. VVhether this may not be a real truth, that their Country is the God they adore, War their Heaven, Peace their Hell; and that they love not any but for Interest; but the King of <hi>Spain</hi> they hate worse then the Devil?</p>
+            <p n="28">XXVIII. VVhether a man may not sooner convert a <hi>Jew,</hi> then perswade a <hi>Dutch-man</hi> contrary to his humour; For Custome is his Law, and his Will is Reason?</p>
+            <p n="29">XXIX. VVhether in the late expedition at Sea, they trusted not more to their Yard armes, then their own armes, to secure themselves from that mis<g ref="char:EOLhyphen"/>chief would have (justly) fallen on them?</p>
+            <p n="30">XXX. VVhether he may be now said to be a man of Spirit, since that failing him he lost his courage; neither hath he seldome any but what he bor<g ref="char:EOLhyphen"/>roweth from Brandy?</p>
+            <p n="31">XXXI. VVhether Pickled Herring, Butter, Onions, and <hi>Holland</hi> Cheese, be not the ingredients which make an ordinary <hi>Dutch-man;</hi> which the heat of the Sun under the Equinoctial in a Voyage to the <hi>Indies</hi> consolidates?</p>
+            <p n="32">
+               <pb n="4" facs="tcp:190540:4"/>XXXII. VVhether his Body, Hands and Face are made of the same mole or composition; for his Body when naked seemeth a Christian-<hi>European,</hi> but the rest Hellish-<hi>Aegyptian?</hi>
+            </p>
+            <p n="33">XXXIII. VVhether they were not bread before manners were in fashion, since they hold civility and courtesie a late uselesse invention, and good for nothing but to steal away mens hearts from their worldly affaires? Surely they would make good Justices of the Peace, not so much for the slendernesse of their wit, but because they neither respect persons nor apparel.</p>
+            <p n="34">XXXIV. VVhether the love of gain, upon what dishonest ground soever, be not as natural to them as water to a Goose, or carrion to a Kite?</p>
+            <p n="35">XXXV. VVhether it would not puzzle a Phylosopher to define a <hi>Dutch<g ref="char:EOLhyphen"/>man,</hi> whether fish or flesh; since he draweth his food and breath as much or more from the water then from the land; however foul I am sure he is.</p>
+            <p n="36">XXXVI. VVhether <hi>Dutch-men</hi> would wonder to see Iron float, since every thing is so made to swim among them?</p>
+            <p n="37">XXXVII. VVhether they would not have forborn to use their virulent expressions against the King of <hi>Spain,</hi> had they not been formerly his Sub<g ref="char:EOLhyphen"/>jects; neither would they have dared to contend with the King of <hi>England,</hi> had not they wrong'd his Sacred Majestie and People so much, they knew not how to render him satisfaction equivalent.</p>
+            <p n="38">XXXVIII. Whether <hi>Myn.</hi> here will not venture the daubing of his fac'd Cloak, by carrying home three penny worth of Pickled Herring when he meets with them in his walk, rather then go without them?</p>
+            <p n="39">XXXIX. VVhether when his belly is full, he beareth the resemblance of a full grown Oyster boyled?</p>
+            <p n="40">XL. VVhether they will not tolerate any thing rather than hinder Traf<g ref="char:EOLhyphen"/>fick; and will not stick to entertain the Devil (should they know him so) and trade with him, should the Fiend assume the habit of a Burgo-master, and shew them Merchandize.</p>
+            <p n="41">XLI. VVhether you may not be what Devil you will at <hi>Amsterdam,</hi> pro<g ref="char:EOLhyphen"/>vided you push not the State with your horns?</p>
+            <p n="42">XLII. VVhether if any one hath lost his Religion, he may not there find it again, it being an University of all sorts of Opinions, which grow there like stocks in a Nursery, without either order or pruning.</p>
+            <p n="43">XLIII. VVhether by this their boundlesse toleration, they place not their Commonwealth in a higher esteem than Heaven it self, since they had rather offend God then crosse their Republick.</p>
+            <p n="44">XLIV. VVhether the Father and the Son were not created together, since observation tells us, there is not to be found among them any demonstration of Duty or Authority to distinguish them?</p>
+            <p n="45">
+               <pb n="5" facs="tcp:190540:4"/>XLV. VVhether their women would not have indifferent good faces, did they not marre them in making.</p>
+            <p n="46">XLVI. VVhether a <hi>Dutch</hi> Saylor is not in continual danger of having his leggs swallowed up, by reason of the wide gaping and yawning of his breeches at knees?</p>
+            <p n="47">XLVII. VVhether a <hi>Dutch-woman</hi> may not be compar'd to a Monkey chain'd by the middle, for she had rather want food, then want lincks to hang her keys in?</p>
+            <p n="48">XLVIII. VVhether a <hi>Dutch-man</hi> be longer eating his dinner, then an <hi>English-man</hi> preparing it?</p>
+            <p n="49">XLIX. VVhether the <hi>English</hi> have not the better over the <hi>Dutch</hi> in drinking, (as well as in other things) having lost it long since by prating too much over their cups.</p>
+            <p n="50">L. Whether we mortals may not reckon the Hollander in the Massacre at <hi>Amboyna</hi> amongst the Gods, since they did there put off all humanity?</p>
+            <p n="51">LI. Whether <hi>Rudis indigestaque Moles,</hi> was not a saying exprest by <hi>Ovid,</hi> relating to the Hollander?</p>
+            <p n="52">LII. VVhether it had not been much safer for the Hollander to have made use of their own fails for fewel, rather than to have fell foul on our Cole<g ref="char:EOLhyphen"/>ships? This I can prove by many <hi>Chaldrons</hi> of Reasons drawn from theirs and our experience?</p>
+            <p n="53">LIII. VVhether it is not sitting that the States should now make an Act, wherein it should be lawfull (as it is thought by some needfull) for the wid<g ref="char:EOLhyphen"/>dows and Orphans of the deceased in the late expedition, to make away with themselves by hanging in the Air, (since their Husbands were destroy'd by two other Elements Fire and VVater) lest they joyning issue with some male<g ref="char:EOLhyphen"/>content persons, it should cause an alteration in their Government, and verefie the saying, <hi>The mighty shall be brought low?</hi>
+            </p>
+            <p n="54">LIV. VVhether the Commonwealth of <hi>Holland</hi> hath any other mark of Christianity than the grand prosecution of its interest, which is <hi>to make their calling and election Sure?</hi>
+            </p>
+            <p n="55">LV. VVhether the common Proverp, <hi>That bought wit is best,</hi> may not now be justly acknowledged by the Hollanders with a sad <hi>Probatum est?</hi>
+            </p>
+            <p n="56">LVI. VVhether it may not be said (when the Dutch Fleet set sail to Pro<g ref="char:EOLhyphen"/>secute injustice (it being then a hot season after their cold VVinter) <hi>That they went out of Gods blessing into the warm Sun?</hi>
+            </p>
+            <p n="57">LVII. VVhether old <hi>Van Trump</hi> by carrying a Broom in his main-top, did signifie that he would be the Scavenger of the British Seas, or that he would have <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad the then Commonwealths Cobler to have furnished with old Shooes, or old Boots? (will you buy any brooms.)</p>
+            <p n="58">
+               <pb n="6" facs="tcp:190540:5"/>LVIII. VVhether <hi>Holland</hi> Cheese will not sweat coming on our Coast for car oof our great Guns; or whether it would not dissolve or melt awa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ra<g ref="char:EOLhyphen"/>ther before it comes by the heat of their own Fire-ships?</p>
+            <p n="59">L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>X. VVhether they look not on this as the Essence of their hodge-podge Religion? That the power of the Sword belongeth to him that can lay hold on the Hilt.</p>
+            <p n="60">LX. VVhether <hi>Opdam</hi> hath not shewn us, that the speediest way of sayl<g ref="char:EOLhyphen"/>ing to the Antipodes, is in a Dutch Bottom?</p>
+            <p n="61">LXI. VVhether if the Dutch dare play out their game at Ruff, and that they will once more Shuffle, it is reasonable for us to Cut?</p>
+            <p n="62">LXII. VVhether Captain <hi>Smith</hi> for sinking one of the Dutch Admirals, may not truly as well as Honourably be said, <hi>To have hit the right nail on the head?</hi>
+            </p>
+            <p n="63">LXIII. VVhether he that can say no more at present, hath not a sufficient excuse to hold his tongue.</p>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
